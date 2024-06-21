@@ -1,6 +1,4 @@
-# Avalanche-Subnets
-
-## ERC20 Token and Vault Smart Contract
+# Defi Empire, A Simple DeFI Kingdom Clone
 
 ## Overview
 
@@ -40,15 +38,6 @@ This repository hosts two Solidity smart contracts: `ERC20.sol` and `vault.sol`.
    - Choose `vault.sol` in the contract dropdown.
    - Paste the ERC-20 token contract address into the constructor parameter for Vault.
    - Click the "Deploy" button to deploy the vault contract.
-
-### Interact with Contracts:
-
-Once deployed, interact with the contracts through the provided functions:
-- Connect your EVM Subnet to Remix for transaction execution.
-
-## Authors
-
-- pras777
 
 ## License:
 
